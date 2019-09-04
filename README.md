@@ -1,2 +1,2 @@
 # study-repo
-my study logs
+공부한 내용들을 업로드 하는 저장소 입니다.
